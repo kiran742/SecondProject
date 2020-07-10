@@ -1,2 +1,6 @@
 ths sample file in second prjt
-:wq!
+
+
+git remote add origin https://github.com/kiran742/SecondProject.git
+
+git remote set-url git@github.com:kiran742/SecondProject.git
