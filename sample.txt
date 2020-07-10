@@ -4,3 +4,4 @@ ths sample file in second prjt
 git remote add origin https://github.com/kiran742/SecondProject.git
 
 git remote set-url origin git@github.com:kiran742/SecondProject.git
+merge
